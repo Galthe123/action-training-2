@@ -1,5 +1,5 @@
 # GitHub Actions Fundamentals
-theresa rules
+theresa rules 🍕🍕🍕
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
